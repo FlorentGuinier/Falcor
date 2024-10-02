@@ -29,7 +29,7 @@ The recommended workflow when prototyping or implementing rendering techniques i
 1. Build Falcor
 2. Run `Mogwai`
 3. Press `Ctrl+O`, or from the top menu bar, select `File` -> `Load Script`
-4. Select a Render Graph (.py file) in `Source/Mogwai/Data/`. Such as `ForwardRenderer.py`.
+4. Select a Render Graph (.py file) in `scripts/`. Such as `PathTracer.py`.
 5. Press `Ctrl+Shift+O`, or from the top menu bar, select `File` -> `Load Scene`.
 6. Select a scene or model, such as `media/Arcade/Arcade.pyscene`
 
